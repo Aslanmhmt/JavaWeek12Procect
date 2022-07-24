@@ -1,0 +1,5 @@
+Access Modifiers:
+       public : let's you reach from everywhere
+       protected : can be reach from everywhere if there is inhe   relationship
+       defult : you need to be in the same packege to reach methods/atts
+       private : just from the class itself
